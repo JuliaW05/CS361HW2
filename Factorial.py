@@ -34,3 +34,4 @@ while True:
 #print(factorial(10))
 #print(factorial(120))
 #print(factorial(1.5))
+#print(factorial(1.3))
